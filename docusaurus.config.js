@@ -15,12 +15,12 @@ module.exports = {
     },
     title: 'TheBase dev',
     tagline: '<3',
-    url: 'https://api.thebase.co.il',
-    baseUrl: '/',
+    url: 'https://hassonipulus.github.io',
+    baseUrl: '/thebase/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon-32x32',
-    organizationName: 'thebase', // Usually your GitHub org/user name.
+    organizationName: 'hassonipulus', // Usually your GitHub org/user name.
     projectName: 'thebase', // Usually your repo name.
     themeConfig: {
         algolia: {
