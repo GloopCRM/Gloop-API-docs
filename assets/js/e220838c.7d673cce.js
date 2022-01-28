@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkthebase_docs=self.webpackChunkthebase_docs||[]).push([[6974],{9003:function(e){e.exports=JSON.parse('{"allTagsPath":"/thebase/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/thebase/blog/tags/hello"}')}}]);
