@@ -20,7 +20,7 @@ module.exports = {
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon-32x32',
-    organizationName: 'hassonipulus', // Usually your GitHub org/user name.
+    organizationName: 'GloopCRM', // Usually your GitHub org/user name.
     projectName: 'thebase', // Usually your repo name.
     themeConfig: {
         algolia: {
