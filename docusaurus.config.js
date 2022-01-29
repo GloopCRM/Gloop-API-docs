@@ -13,7 +13,7 @@ module.exports = {
             }
         }
     },
-    title: 'TheBase dev',
+    title: 'Goop Docs',
     tagline: '<3',
     url: 'https://api.gloopcrm.co.il/',
     baseUrl: '/',
