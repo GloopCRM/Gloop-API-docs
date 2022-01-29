@@ -21,7 +21,7 @@ module.exports = {
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon-32x32',
     organizationName: 'GloopCRM', // Usually your GitHub org/user name.
-    projectName: 'thebase', // Usually your repo name.
+    projectName: 'Gloop-API-docs', // Usually your repo name.
     themeConfig: {
         algolia: {
             apiKey: 'YOUR_API_KEY',
