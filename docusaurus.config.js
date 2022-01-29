@@ -39,7 +39,7 @@ module.exports = {
             //... other Algolia params
         },
         navbar: {
-            title: 'TheBase API',
+            title: 'Gloop API',
             logo: {
                 alt: 'thebase logo',
                 src: 'img/tb-logo.png',
